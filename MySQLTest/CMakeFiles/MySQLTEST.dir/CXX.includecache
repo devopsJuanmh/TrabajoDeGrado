@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juan/MySQLTest/main.cpp
+stdlib.h
+-
+iostream
+-
+errno.h
+-
+fcntl.h
+-
+stdio.h
+-
+string.h
+-
+termios.h
+-
+unistd.h
+-
+time.h
+-
+fstream
+-
+cstring
+-
+stdint.h
+-
+mysql_connection.h
+/home/juan/MySQLTest/mysql_connection.h
+cppconn/driver.h
+-
+cppconn/exception.h
+-
+cppconn/resultset.h
+-
+cppconn/statement.h
+-
+

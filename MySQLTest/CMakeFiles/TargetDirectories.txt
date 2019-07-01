@@ -1,0 +1,3 @@
+/home/juan/MySQLTest/CMakeFiles/edit_cache.dir
+/home/juan/MySQLTest/CMakeFiles/rebuild_cache.dir
+/home/juan/MySQLTest/CMakeFiles/MySQLTEST.dir

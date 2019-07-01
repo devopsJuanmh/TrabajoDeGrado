@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/MySQLTEST.dir/main.cpp.o  -o MySQLTEST -rdynamic /usr/lib/libmysqlcppconn.so 
